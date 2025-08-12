@@ -32,12 +32,12 @@ Repositório referente às disciplinas de Cálculo 1 e Cálculo 2, cursadas no 3
 ## 📂 Estrutura do Repositório
 
 ```plaintext
-├── Calculo1/
-│   ├── Derivadas/
-│   └── Trabalhos/
-├── Calculo2/
-│   ├── Integrals/
-│   └── Trabalhos/
+├── Derivadas em Codigo/
+│  
+├── Integrais em codigo/
+|
+├── Trabalhos
+│   
 └── README.md
 ```
 
